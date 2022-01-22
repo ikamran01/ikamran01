@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kamranht" target="blank"><img src="https://img.shields.io/twitter/follow/kamranht?logo=twitter&style=for-the-badge" alt="kamranht" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ikamrann" target="blank"><img src="https://img.shields.io/twitter/follow/kamranht?logo=twitter&style=for-the-badge" alt="kamranht" /></a> </p>
 
 - 💬 Ask me about **ReactJS,MongoDB**
 
