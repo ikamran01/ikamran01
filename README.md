@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranht&label=Profile%20views&color=0e75b6&style=flat" alt="kamranht" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamran1&label=Profile%20views&color=0e75b6&style=flat" alt="ikamran1" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/ikamrann" target="blank"><img src="https://img.shields.io/twitter/follow/kamranht?logo=twitter&style=for-the-badge" alt="kamrann" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ikamrann" target="blank"><img src="https://img.shields.io/twitter/follow/ikamran1?logo=twitter&style=for-the-badge" alt="kamrann" /></a> </p>
 
 - 💬 Ask me about **ReactJS,MongoDB**
 
