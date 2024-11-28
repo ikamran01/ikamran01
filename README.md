@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kamranahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kamranahmad" height="30" width="40" /></a>
+<a href="https://codepen.io/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kamranahmad" height="30" width="40" /></a>
 <a href="https://dev.to/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/officialkamran" height="30" width="40" /></a>
 <a href="https://twitter.com/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamranht" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ikamran01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikamran01/" height="30" width="40" /></a>
-<a href="//dribbble.com/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kamran9" height="30" width="40" /></a>
+<a href="https://dribbble.com/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kamran9" height="30" width="40" /></a>
 <a href="https://www.behance.net/ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kamran03" height="30" width="40" /></a>
-<a href="https://hashnode.com/ikamtan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kamranah" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ikamran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kamranah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
